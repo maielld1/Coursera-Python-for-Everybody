@@ -1,7 +1,7 @@
 #Python for Everybody
 ##University of Michigan
 ##Dr. Charles Severance class specialization on Coursera
-##Learn to program and analyze data with Python
+###Learn to program and analyze data with Python
 
 1.  Programming for Everybody (Getting Started with Python)
 2.  Python Data Structures
